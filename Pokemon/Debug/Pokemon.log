@@ -1,0 +1,14 @@
+﻿  Game.cpp
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(73,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(85,19): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(119,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(231,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(264,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(281,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(433,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(464,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(472,20): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(510,20): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(513,20): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\Adam\Desktop\Pokemon\Pokemon\Game.cpp(566,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Pokemon.vcxproj -> C:\Users\Adam\Desktop\Pokemon\Debug\Pokemon.exe
